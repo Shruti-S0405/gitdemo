@@ -1,0 +1,12 @@
+.git 
+
+> git init -> .git
+> git add . -> move the files to the staging area
+> git commit -m "<commit msg>" -> used to move the files from staging area to the local repo
+
+> git status -> to check the untracked files 
+> git log -> to see the history to git operations
+
+git init 
+git add .
+git commit -m "commi msg"
