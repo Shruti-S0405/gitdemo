@@ -1,0 +1,4 @@
+.git 
+
+> git init -> .git
+> git add . -> move the files to the staging area
